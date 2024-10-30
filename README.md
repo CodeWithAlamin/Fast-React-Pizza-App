@@ -2,7 +2,7 @@
 
 <h2 align="center">
 
-[🌐WebSite](https://fast-react-pizza-codepapa.vercel.app)
+[🌐WebSite](https://fast-react-pizza-alamin.vercel.app)
 
 </h2>
 
@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" />
 
 <br/>
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://www.twitter.com/CodeWithAlamin' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
+<a href='https://www.linkedin.com/in/CodeWithAlamin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://fast-react-pizza-codepapa.vercel.app">
+<a align="center" href="https://fast-react-pizza-alamin.vercel.app">
 
 ![Screenshot](./public/thumbnail-preview.png)
 
@@ -64,7 +64,7 @@ During the course of this project, I had the opportunity to learn and improve my
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Fast-React-Pizza-App.git
+git clone https://github.com/CodeWithAlamin/Fast-React-Pizza-App.git
 ```
 
 - Install dependencies:
@@ -89,10 +89,10 @@ npm run dev
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
